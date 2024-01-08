@@ -27,14 +27,14 @@ Ignorance - Paramore
 Be Yourself - Audioslave
 
 
-Help is on the Way
+Help is On the Way
 
 Current plan - without mods
 
 June - Dec 2002
 
 Show Me How to Live - Audioslave
-Help is on the Way - Rise Against
+Help is On the Way - Rise Against
 Over my Head (Better off Dead) - Sum 41
 Harakiri - Serj Tankian
 Fortitude/The Chant - Gojira
