@@ -68,7 +68,7 @@ HMM-161: 8 * CH-46 (Use AI CH-47) - Transport, Infantry M4/M249, HMMWV TOW
 HMLA-169: 4 * AH-1 (Use AI AH-1W) - AGM-114, 3 * UH-1 (Use UH-1H) - Hydra/Zuni
 VMA-513: 6/8 * AV-8B (Use AV-8B N/A) - LJDAM/APKWS/AGM-122
 
-Landing Crafts - M1 Abrams/M1097 Avenger
+Landing Crafts (Use AI Harbor Tug) - M1 Abrams/M1097 Avenger
 Unamed Patrol Boat
 Unamed Patrol Ship
 
