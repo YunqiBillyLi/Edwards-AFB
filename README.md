@@ -50,9 +50,9 @@ Enemies:
 USN/USMC: 
 USS George Washington Group
 VF-103: 8/12 * F-14B (Use F-14B) - AIM-54C
-VFA-34: 9/12 * F-18C (Use F-18C Lot 20) - AIM-120C/JASSM/AGM-88
-VFA-81: 9/12 * F-18C (Use F-18C Lot 20)
-VFA-83: 9/12 * F-18C (Use F-18C Lot 20)
+VFA-34: 9/12 * F/A-18C (Use F/A-18C Lot 20) - AIM-120C/JASSM/AGM-88
+VFA-81: 9/12 * F/A-18C (Use F/A-18C Lot 20)
+VFA-83: 9/12 * F/A-18C (Use F/A-18C Lot 20)
 VAQ-132: 3/5 * EA-6B (Not available in DCS)
 VS-30: 6/8 * S-3B (Use AI S-3B) - Tanker
 VAW-125: 2/4 * E-2C (Use AI E-2D) - AWACS
@@ -77,6 +77,16 @@ MQ-1
 
 ROKAF: 
 8 * F-15K (Use AI F-15E S4+) - AIM-120C/JSOW
+
+RAAF (Royal Australian Air Force): 
+8 * F/A-18C (Use F/A-18C Lot 20) - AIM-7/AIM-9M/LGB
+
+PAF (Philippine Air Force): 
+8 * F-5A (Use F-5E-3) - AIM-9L/LAU-61
+
+RTAF (Royal Thai Air Force): 
+4 * F-16A MLU (Use AI F-16A MLU) - AIM-120C/AIM-9P/AGM-65D
+4 * F-5E (Use F-5E-3) - AIM-9L/Mk82
 
 Procedure: 
 
