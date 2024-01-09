@@ -16,7 +16,6 @@ Hurricane - Vigil of War
 Night Stalkers - Megadeth
 Prayer of the Refugee - Rise Against
 Still Waiting - Sum 41
-The Unforgiven - Metallica
 
 
 Live Wire
